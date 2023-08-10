@@ -56,3 +56,5 @@ for i in [1,2,3,4,5,6]:
 
 print(f"\nSalario despues de 6 años: ${salario}")"""
 
+#Autor: Oscar Osornio Sanchez
+
